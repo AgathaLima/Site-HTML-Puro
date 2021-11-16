@@ -1,1 +1,1 @@
-Página utilizando apenas HTML para treinamento do curdo Udemy
+Página utilizando apenas HTML para treinamento do curso Udemy
